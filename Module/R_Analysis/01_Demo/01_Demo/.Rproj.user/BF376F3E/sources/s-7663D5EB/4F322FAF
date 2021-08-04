@@ -1,0 +1,28 @@
+{
+    "id": "4F322FAF",
+    "path": null,
+    "project_path": null,
+    "type": "object_explorer",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1628100498942.0,
+    "source_on_save": false,
+    "relative_order": 3,
+    "properties": {
+        "id": "a73f1d7f17a34575a9bf4a65b036eef9",
+        "name": "MechaCar_lm",
+        "title": "MechaCar_lm",
+        "language": "R",
+        "source_window_id": "",
+        "Source": "Source"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 46,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1628100498942,
+    "read_only": false,
+    "read_only_alternatives": []
+}
