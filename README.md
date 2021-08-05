@@ -87,4 +87,5 @@ Alternative Hypothesis: MechaCars have different pricing in comparison to compet
 A multiple linear regression test can be used to determine the factors that have the highest correlation and/or predictability with a dependent factor like the selling price. This can determine which combination has the greatest impact on price.
 
 **What data is needed to run the statistical test?**
+
 In order to carry out this statistical test, we will need to get data on each of the metrics from MechaCar and its competitors.
