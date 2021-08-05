@@ -10,7 +10,7 @@ The data preparation utilizes R and statistics to analyze and create analysis an
 
 ## Deliverable 1: Linear Regression to Predict MPG
 
-<img align="right" src="Analysis/MechaCar_mpg.png" width="450">
+<img align="right" src="Analysis/MechaCar.png" width="450">
 
 This analysis focuses on analyzing the test results for 50 prototypes of Mechacars to identify ideal vehicle performance. 
 
