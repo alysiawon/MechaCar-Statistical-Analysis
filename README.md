@@ -8,9 +8,9 @@ The purpose of this project is to help AutosRUs’ newest prototype, the MechaCa
 
 The data preparation utilizes R and statistics to analyze and create analysis and reports. The results are generated on the <a href="MechaCarChallenge.RScript.R">R Script</a>. 
 
-<img align="right" src="Analysis/MechaCar_mpg.png" width="450">
-
 ## Deliverable 1: Linear Regression to Predict MPG
+
+<img align="right" src="Analysis/MechaCar_mpg.png" width="450">
 
 This analysis focuses on analyzing the test results for 50 prototypes of Mechacars to identify ideal vehicle performance. 
 
@@ -50,11 +50,11 @@ When reviewing the individual manufacturing lots, Lot 1 and Lot 2 are within the
 
 This analysis uses t-tests to determine if all manufacturing lots and each lot individually are statistically different from the population mean of 1,500 pounds per square inch.
 
+<img align="right" src="Analysis/t-test_all.png" width="450">
+
 **Key Findings**
 
 Based on the t-test analysis for all manufacturing lotos, it shows that the true mean of the sample is 1498.78 and a p-value of 0.06. This is higher than the common signifigance level of 0.05. 
-
-<img align="right" src="Analysis/t-test_all.png" width="450">
 
 However, when looking at each of the individua lots, Lot 1 has a sample mean oof 1500 and a p-value of 1. We canno reject the null hypothesis as there is no statistical difference between the observed sample mean and the population mean of 1500.
 
