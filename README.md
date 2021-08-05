@@ -22,7 +22,7 @@ However, the vehicle weight, spoiler angle, and all wheel drive (AWD) are statis
 
 **Is the slope of the linear model considered to be zero? Why or why not?**
 
-The slope is not considered to be zero because the p-value is 5.35-11 which is significantly smaller than assumed significance level of 0.05%. This would allow us to reject the null hypothesis which indicates that the linear model is zero. 
+The slope is not considered to be zero because the p-value is 5.35e-11 which is significantly smaller than assumed significance level of 0.05%. This would allow us to reject the null hypothesis which indicates that the linear model is zero. 
 
 **Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?**
 
